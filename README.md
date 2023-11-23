@@ -1,5 +1,5 @@
 # React + Vite
-# Steps doing the project
+# Steps doing the  NASA Lab in Class
  Went to https://api.nasa.gov to get free API Key
 Read through documentation to find out what information I wanted to retrieve in my app. Once I figured that out, look for base URL and endpoint
 Determined what and how I wanted the data displayed based on directions given for project
